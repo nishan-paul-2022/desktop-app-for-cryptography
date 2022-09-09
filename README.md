@@ -10,4 +10,4 @@
 - Multiple methids for encryption and decryption 
 
 ## My desktop app :
-![e01](https://github.com/nishan-paul-2022/cough-type-chronic-disease-prediction/blob/main/readme/b01.PNG)
+![e01](https://github.com/nishan-paul-2022/desktop-app-for-cryptography/blob/main/readme/b01.PNG)
